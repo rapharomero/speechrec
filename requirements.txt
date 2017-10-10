@@ -1,0 +1,11 @@
+
+cutting
+speech_rec
+os
+sys
+argparse
+speech_recognition
+collections
+contextlib
+wave
+webrtcvad
